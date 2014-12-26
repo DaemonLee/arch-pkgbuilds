@@ -1,7 +1,8 @@
-# Maintainer: Daemon Lee Schmidt DaemonLeeSchmidt@gmail.com
+# Contributor: Daemon Lee Schmidt <DaemonLeeSchmidt@gmail.com>
+
 pkgname=c11threads-git
 pkgver=20141226
-pkgrel=1
+pkgrel=2
 pkgdesc="A temporary, pure header implementation of C11 threads."
 arch=('any')
 url="https://github.com/jtsiomb/c11threads"
